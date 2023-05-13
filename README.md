@@ -1,3 +1,16 @@
+This is a very simple demo of React App:
+we have two components:
+1. User Form include name, age and one submit button
+2. User List: show the results of step1 and we have have additional ErrorModal to show the error if the inputs are not correct like empty, incorrect type
+![Capture1](https://github.com/hackerbaria/simple-input-app/assets/6282021/3be54fb3-eefe-465c-99e4-d46d438d2c0c)
+
+![Capture2](https://github.com/hackerbaria/simple-input-app/assets/6282021/c02a8929-a292-487c-af2a-0bb9f3cb9a06)
+
+
+![Capture3](https://github.com/hackerbaria/simple-input-app/assets/6282021/50287ceb-c2e2-409f-811d-21440e8e8290)
+
+Hope you will enjoy and learn something from this demo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
